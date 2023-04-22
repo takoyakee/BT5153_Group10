@@ -22,4 +22,4 @@ The dataset is retrieved from Kaggle: [IBM HR Analytics Employee Attrition & Per
 - Model Training and Tuning: 5 folds CV for KNN, LR, SVM, DT, GB, RF (Main model + helper functions, )
 - Feature Selection: Recursive Feature Elimination with CV (Main model + helper functions)
 - Global Interpretability: RF feature impt, Permutation feature impt (Main model + helper functions)
-- Local Interpretability; LIME + processed LIME for dashboard (Lime Example for Display)
+- Local Interpretability: LIME + processed LIME for dashboard (Lime Example for Display)
