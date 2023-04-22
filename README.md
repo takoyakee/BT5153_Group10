@@ -10,7 +10,7 @@ The dataset is retrieved from Kaggle: [IBM HR Analytics Employee Attrition & Per
 - EDA: Exploratory Data Analysis (general processing, correlations, uni/multi variate analysis)
 - Data Processing: Dropping features, Feature Engineering, Creating Data Pipeline for ML
 - Main model + helper functions: All functions used for training, tuning, selection and feature importance
-- Baseline: Defines cost-benefit matrix (CBM) + EV from three baseline strategies
+- Baseline: Defines 3 cost-benefit matrix (CBM) + EV for three baseline strategies (Random, No Target, Target All)
 - Model Selection for CBM1 (Train+Tune, Evaluate+Choose Model, Feature Selection, Optimising EV through threshold)
 - Model Selection for CBM2
 - Model Selection for CBM3
