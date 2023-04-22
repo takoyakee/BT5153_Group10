@@ -4,7 +4,7 @@ This repository provides the source codes used in EDA, Model Training and Tuning
 The dataset is retrieved from Kaggle: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) 
 
 # Outline of notebook:
-- Impots: pip install, import library, df
+- Impots: pip install, import library, loading data
 - EDA: Exploratory Data Analysis (general processing, correlations, uni/multi variate analysis)
 - Data Processing: Dropping features, Feature Engineering, Creating Data Pipeline for ML
 - Main model + helper functions: All functions used for training, tuning, selection and feature importance
