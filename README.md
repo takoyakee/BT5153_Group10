@@ -1,6 +1,8 @@
 # Stay or Stray: Machine Learning Decodes the Attrition Mystery
 This repository provides the source codes used in EDA, Model Training and Tuning, Feature Selection, Global and Local Interpretability analysis for the problem of attrition prediction as part of BT5153.
 
+The final model aids organisation in predicting attrition that maximises expected value according to needs and provides interpretable and actioable insights for management.
+
 The dataset is retrieved from Kaggle: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) 
 
 # Outline of notebook:
